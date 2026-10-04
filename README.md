@@ -96,6 +96,8 @@ An X-Small warehouse is enough. The only LLM calls are one per complaint for ext
 
 "We installed Snowflake CoCo CLI (Cortex Code v1.1.87) and connected it to our Snowflake account. We used it to query our data in plain English and to verify our work. For example, it counted rows in our tables, checked our detector against the planted ground truth (25 flagged, 25 correct), parsed the AI-extracted complaint fields, and flagged a missing amount in one of our early draft reports. Screenshots are in the docs folder."
 
+DEMO VIDEO : https://youtu.be/kALf7-6xVaE?si=bLLlzfsdH6JX3Wr_
+
 ## Repo layout
 
 ```
